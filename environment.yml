@@ -7,4 +7,5 @@ dependencies:
   - arcgis
   - geopandas
   - plotly=4.6.0=pyh9f0ad1d_0
+  - xlrd
 
